@@ -1,0 +1,51 @@
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="16dp">
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="86dp"
+        android:gravity="center_vertical"
+        android:orientation="horizontal"
+        android:padding="16dp">
+
+        <ImageView
+            android:id="@+id/userImage"
+            android:layout_width="50dp"
+            android:layout_height="56dp"
+            android:layout_gravity="center_horizontal"
+            android:src="@drawable/logo" />
+
+            <TextView
+                android:id="@+id/textHelloUser"
+                android:layout_width="wrap_content"
+                android:layout_height="61dp"
+                android:layout_marginStart="16dp"
+                android:gravity="center"
+                android:text=""
+                android:textAlignment="center"
+                android:textColor="#BFB29E"
+                android:textSize="18sp" />
+
+    </LinearLayout>
+
+    <MultiAutoCompleteTextView
+        android:id="@+id/journalInput"
+        android:layout_width="match_parent"
+        android:layout_height="142dp"
+        android:layout_marginTop="16dp"
+        android:background="@drawable/rounded_edittext_bg"
+        android:hint="Apa yang anda ingin curahkan.."
+        android:padding="10dp" />
+
+    <Button
+        android:id="@+id/sendButton"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Kirim"
+        android:layout_marginTop="16dp"/>
+</LinearLayout>

@@ -1,0 +1,15 @@
+<!-- res/drawable/card_top_rounded_bg.xml -->
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:left="-4dp"
+        android:right="-4dp"
+        android:top="5dp"
+        android:bottom="0dp">
+        <shape android:shape="rectangle">
+                <solid android:color="@color/coklat" />
+            <corners
+                android:topLeftRadius="30dp"
+                android:topRightRadius="30dp" />
+        </shape>
+    </item>
+</layer-list>

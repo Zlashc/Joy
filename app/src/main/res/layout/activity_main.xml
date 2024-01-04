@@ -1,0 +1,67 @@
+<!-- activity_main.xml -->
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingLeft="16dp"
+    android:paddingTop="16dp"
+    android:paddingRight="16dp"
+    android:paddingBottom="16dp"
+    tools:context=".MainActivity">
+
+    <!-- Text Header "Happify" -->
+    <TextView
+        android:id="@+id/textHeader"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Happify"
+        android:textAlignment="center"
+        android:textSize="24sp"
+        android:textStyle="bold"/>
+
+    <!-- Logo Image -->
+    <ImageView
+        android:id="@+id/logoImage"
+        android:layout_width="wrap_content"
+        android:layout_height="300dp"
+        android:layout_below="@id/textHeader"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="16dp"
+        android:src="@drawable/dokter" />
+
+    <!-- Text "Kesehatan Mental Anda Sangat Penting!" -->
+    <TextView
+        android:id="@+id/textMentalHealth"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/logoImage"
+        android:layout_marginTop="16dp"
+        android:textAlignment="center"
+        android:text="Kesehatan Mental Anda Sangat Penting!"
+        android:textSize="18sp"/>
+
+    <!-- Text "Welcome to the Happify Application" -->
+    <TextView
+        android:id="@+id/textWelcome"
+        android:textAlignment="center"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/textMentalHealth"
+        android:layout_marginTop="16dp"
+        android:text="Welcome to the Happify Application"
+        android:textSize="18sp"/>
+
+    <Button
+        android:id="@+id/btnGetStarted"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:background="#FF9800"
+        android:radius="20dp"
+        android:text="Get Started"
+        android:textColor="#ffffff"
+        android:textStyle="bold" />
+
+
+
+</RelativeLayout>
