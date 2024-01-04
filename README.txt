@@ -3,18 +3,18 @@ Nama Kelompok: Joy
 
 Nama Anggota:
 Fadhilah Daffi Aguna
+Muhammad Faizal
 Nurhaliza Fatimah Az-Zahrah
 Raihan Naufal Ramadhan
-Muhammad Faizal
 
 Job Desc: 
 Anggota 1:
-- Membuat notifikasi, profile, message 
+- Membuat fitur notifikasi, fitur tampilan profile, fitur message 
 Anggota 2:
-- Membuat Get started screen, login, register, homepage 
+- Membuat fitur pelacakan mood, pelacakan kemajuan, dukungan profesional 
 Anggota 3:
-- Membuat jurnalisme, meditasi & relaksasi 
+- Membuat fitur jurnalisme,  fitur meditasi & relaksasi 
 Anggota 4:
-- Membuat pelacakan mood, pelacakan kemajuan, dukungan profesional
+- Membuat fitur get started screen, tampilan login,  tampilan register, tampilan homepage
 
 Contact Person: Ketua (+62 878-6741-8040) >>>
