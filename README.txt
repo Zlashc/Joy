@@ -14,4 +14,6 @@ Anggota 2:
 - Membuat pelacakan mood, pelacakan kemajuan, dukungan profesional
 Anggota 3:
 - Membuat Halaman sign up, login, dan homepage
+Anggota 4:
+- Membuat fitur jurnalisme dan fitur meditasi dan relaksasi
 Contact Person: Ketua (+62 878-6741-8040) >>>
