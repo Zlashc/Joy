@@ -9,6 +9,8 @@ Raihan Naufal Ramadhan
 
 Job Desc: 
 Anggota 1:
-- Membuat fitur notifikasi, fitur tampilan profile, fitur message 
+- Membuat fitur notifikasi, fitur tampilan profile, fitur message
+Anggota 2:
+- Membuat pelacakan mood, pelacakan kemajuan, dukungan profesional
 
 Contact Person: Ketua (+62 878-6741-8040) >>>
